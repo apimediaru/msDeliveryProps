@@ -16,7 +16,7 @@ define('PKG_VERSION', '0.0.2');
 define('PKG_RELEASE', 'beta');
 define('PKG_SUPPORTS_PHP', '7.2');
 define('PKG_SUPPORTS_MODX', '2.7');
-define('PKG_SUPPORTS_MS2', '2.5');
+define('PKG_SUPPORTS_MS2', '1.0');
 
 require_once __DIR__ . '/vendor/modx/revolution/core/xpdo/xpdo.class.php';
 
